@@ -1,16 +1,13 @@
-## Hi there 👋
+**bem vindo ao meu perfil8*
 
-<!--
-**Joaopedrorochamoura/Joaopedrorochamoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Joao Pedro Rocha Moura
+sou aluno do componente currícular de Pensamento Computacional pela rede estadual de educação do Paraná
 
-Here are some ideas to get you started:
+Utilizo em aula a plataforma[alura](https.//wwwalura.com.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Você pode entrar em contato comigo
+
+rocha.moura.joao@escola.pr.gov.br
+
+
+
